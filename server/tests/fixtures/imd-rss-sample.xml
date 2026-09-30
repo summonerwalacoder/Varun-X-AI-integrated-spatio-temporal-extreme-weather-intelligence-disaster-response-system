@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>Heat Wave Warning for Rajasthan</title>
+      <description><![CDATA[Severe heat wave conditions expected. Heat stroke possible.]]></description>
+      <category>Heat Wave</category>
+      <source>IMD</source>
+      <guid>https://mausam.imd.gov.in/rss/heat-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 09:00:00 +0530</pubDate>
+      <severity>Extreme</severity>
+    </item>
+    <item>
+      <title>Unverified rumour about a cyclone</title>
+      <description><![CDATA[Some users are sharing this. It is not an official product.]]></description>
+      <category>Social Media</category>
+      <source>Random Blog</source>
+      <guid>https://example.invalid/rumour</guid>
+      <pubDate>Sat, 12 Sep 2026 10:00:00 +0530</pubDate>
+      <severity>Extreme</severity>
+    </item>
+  </channel>
+</rss>

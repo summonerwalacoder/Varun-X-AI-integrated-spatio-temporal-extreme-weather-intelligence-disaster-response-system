@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap:alert xmlns:cap="urn:oasis:names:tc:emergency:1.2" cap:identifier="IMD-2026-0912-001"
+  cap:sender="IMD" cap:status="Actual" cap:msgType="Alert" cap:scope="Public">
+  <cap:info>
+    <cap:category>Met</cap:category>
+    <cap:event>Heavy Rainfall Warning</cap:event>
+    <cap:urgency>Immediate</cap:urgency>
+    <cap:severity>Severe</cap:severity>
+    <cap:certainty>Observed</cap:certainty>
+    <cap:onset>2026-09-12T06:00:00+05:30</cap:onset>
+    <cap:expires>2026-09-13T06:00:00+05:30</cap:expires>
+    <cap:headline>Heavy rainfall likely over Delhi NCR for the next 24 hours</cap:headline>
+    <cap:description><![CDATA[Heavy to very heavy rainfall with isolated extremely heavy falls is likely over Delhi NCR.]]></cap:description>
+    <cap:instruction><![CDATA[Restrict movement to essential travel. Keep drains clear. Shelter in place if water rises.]]></cap:instruction>
+    <cap:areaDesc>Delhi NCR</cap:areaDesc>
+  </cap:info>
+</cap:alert>

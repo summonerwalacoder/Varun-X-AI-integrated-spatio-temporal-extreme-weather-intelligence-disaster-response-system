@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+.env
+.env.local
+.DS_Store
+*.log
+*.tsbuildinfo
+
+# Runtime database and WAL files. Regenerated on first boot from the seed.
+varun-x-data/
